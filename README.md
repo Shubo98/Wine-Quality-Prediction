@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Wine-Quality-Prediction
 📌 Project Overview
 
@@ -19,3 +20,6 @@ NumPy
 Matplotlib
 Seaborn
 Scikit-learn
+=======
+# Wine-Quality-Prediction
+>>>>>>> 809e18735b18a9770e21a4377cc6a3ef8b770da3
